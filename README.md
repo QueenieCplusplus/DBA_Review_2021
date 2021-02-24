@@ -5,7 +5,7 @@ this is a helper to install MySQL server client app &amp; UI software called MyS
 # Mac OS 系統隱私與安全的設定
 
   
-  請詳截圖 16。
+  請詳截圖 16、17。
 
 
 # 官方網站的小路徑

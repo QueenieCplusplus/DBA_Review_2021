@@ -2,6 +2,12 @@
 this is a helper to install MySQL server client app &amp; UI software called MySQLWorkbench 
 
 
+# Mac OS 系統隱私與安全的設定
+
+  
+  請詳截圖 16。
+
+
 # 官方網站的小路徑
 
 倘若下載後，出現 crash 請確認版本號與作業系統版本是否相容！

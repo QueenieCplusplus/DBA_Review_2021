@@ -9,4 +9,11 @@ https://downloads.mysql.com/archives/workbench/
 
 如使用 macOS，請確認隱私權與安全的設定。
 
+
+
+關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！
+
+
+
+
 兩軟體安裝完成後，啟動 MySQL Server 並且使用 MySQLWorkbench 匯入測試 sql 腳本，https://github.com/QueenieCplusplus/DBA_Review_2021/blob/main/database.sql

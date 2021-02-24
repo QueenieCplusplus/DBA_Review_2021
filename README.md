@@ -12,6 +12,7 @@ https://downloads.mysql.com/archives/workbench/
 
 
 關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！ （截圖 3）
+至系統偏好設定左下方，能見到 MySQL Client Server，可以啟動 (截圖4)
 
 
 

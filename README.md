@@ -10,7 +10,7 @@ this is a helper to install MySQL server client app &amp; UI software called MyS
 
 # 官方網站的小路徑
 
-倘若下載後，出現 crash 請確認版本號與作業系統版本是否相容！ 否則會狂踩到 Crash 的坑 -> (截圖 )
+倘若下載後，出現 crash 請確認版本號與作業系統版本是否相容！ 否則會狂踩到 Crash 的坑 -> (截圖 18)
 
 https://downloads.mysql.com/archives/workbench/
 

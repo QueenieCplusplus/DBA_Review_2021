@@ -20,6 +20,13 @@ https://downloads.mysql.com/archives/workbench/
 * 至系統偏好設定左下方，能見到 MySQL Client Server，可以啟動 (截圖4、5)
 
 
+# MySQL Shell
+
+* 設定環境變數 
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/8.png)
+
+
 # MySQL Workbench
 
 兩軟體安裝完成後，啟動 MySQL Server 並且使用 MySQLWorkbench 匯入測試 sql 腳本，https://github.com/QueenieCplusplus/DBA_Review_2021/blob/main/database.sql

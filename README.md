@@ -11,7 +11,7 @@ https://downloads.mysql.com/archives/workbench/
 
 
 
-關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！
+關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！ （截圖 3）
 
 
 

@@ -33,11 +33,13 @@ https://downloads.mysql.com/archives/workbench/
 
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/0b.png)
+  
 
 * 設定環境變數 
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/8.png)
-
+  
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/9.png)
 
 # MySQL Workbench
 

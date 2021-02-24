@@ -39,6 +39,13 @@ https://downloads.mysql.com/archives/workbench/
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/8.png)
   
+  
+* 確認環境變數 
+
+      sorce 設定檔 或是 重開 prompt 視窗，兩者均可。
+
+      echo $PATH
+  
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/9.png)
 
 # MySQL Workbench

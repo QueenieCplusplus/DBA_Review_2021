@@ -22,6 +22,10 @@ https://downloads.mysql.com/archives/workbench/
 
 # MySQL Shell
 
+* 確認下載後檔案的路徑
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/.png)
+
 * 設定環境變數 
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/8.png)

@@ -85,3 +85,6 @@ https://downloads.mysql.com/archives/workbench/
 
   (截圖 20 ~ 25)
 
+# 更新 MySQL
+
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/26.png)

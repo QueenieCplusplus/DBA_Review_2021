@@ -67,7 +67,7 @@ https://downloads.mysql.com/archives/workbench/
 
 兩軟體安裝完成後，啟動 MySQL Server 並且使用 MySQLWorkbench 匯入測試 sql 腳本，https://github.com/QueenieCplusplus/DBA_Review_2021/blob/main/database.sql
 
-  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/19.pn)
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/19.png)
   
-  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/0a.pn)
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/0a.png)
 

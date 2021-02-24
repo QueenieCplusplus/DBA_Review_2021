@@ -24,7 +24,15 @@ https://downloads.mysql.com/archives/workbench/
 
 * 確認下載後檔案的路徑
 
-  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/.png)
+
+        which
+     
+        whereis
+        
+        find / -name
+
+
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/0b.png)
 
 * 設定環境變數 
 

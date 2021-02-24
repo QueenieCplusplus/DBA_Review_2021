@@ -15,7 +15,7 @@ https://downloads.mysql.com/archives/workbench/
 
 # 啟用 MySQL Server
 
-* 關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！ （截圖 3、6）
+* 關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！ （截圖 3、6、11）
 
 * 至系統偏好設定左下方，能見到 MySQL Client Server，可以啟動 (截圖4、5)
 
@@ -47,6 +47,11 @@ https://downloads.mysql.com/archives/workbench/
       echo $PATH
   
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/9.png)
+  
+  
+* 之後啟動 shell 就不用在呼叫冗長的 path ，可以直接呼叫 mysql 來取用。另外，溫馨提醒 mysql 的密碼是自定義的，不是輸入系統的密碼。 （截圖 3、6、11）
+
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/11%20輸入mysql%20密碼%20非系統管理員密碼.png)
 
 # MySQL Workbench
 

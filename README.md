@@ -71,9 +71,17 @@ https://downloads.mysql.com/archives/workbench/
 
 # MySQL Workbench
 
-兩軟體安裝完成後，啟動 MySQL Server 並且使用 MySQLWorkbench 匯入測試 sql 腳本，https://github.com/QueenieCplusplus/DBA_Review_2021/blob/main/database.sql
+* UI 管理介面
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/19.png)
   
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/0a.png)
+  
+* 匯入測試的資料
+
+   兩軟體安裝完成後，啟動 MySQL Server 並且使用 MySQLWorkbench 匯入測試 sql 腳本，https://github.com/QueenieCplusplus/DBA_Review_2021/blob/main/database.sql
+   
+* 匯入的方式，請詳
+
+  (截圖 20 ~ 25)
 

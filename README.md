@@ -40,6 +40,7 @@ https://downloads.mysql.com/archives/workbench/
         whereis
         
         find / -name
+   
 
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/0b.png)
@@ -62,6 +63,11 @@ https://downloads.mysql.com/archives/workbench/
 * 之後啟動 shell 就不用在呼叫冗長的 path ，可以直接呼叫 mysql 來取用。另外，溫馨提醒 mysql 的密碼是自定義的，不是輸入系統的密碼。 （截圖 3、6、11）
 
    ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/11%20輸入mysql%20密碼%20非系統管理員密碼.png)
+   
+   
+* 匯入資料的語法。
+
+  (截圖 12、13、14）
 
 # MySQL Workbench
 

@@ -17,6 +17,10 @@ https://downloads.mysql.com/archives/workbench/
 
 * 關於 MySQL 客戶端軟體，下載完成會預設 root 的密碼，請詳記！！！ （截圖 3、6、11）
 
+* 創建 instance 即 DB 實例，切記要勾選下方的 password 進入點，而非上方的，這會影響 MySQLWorkbench 能否連線得到！ (截圖 15)
+
+ 
+
 * 至系統偏好設定左下方，能見到 MySQL Client Server，可以啟動 (截圖4、5)
 
 

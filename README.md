@@ -19,7 +19,7 @@ https://downloads.mysql.com/archives/workbench/
 
 * 創建 instance 即 DB 實例，切記要勾選下方的 password 進入點，而非上方的，這會影響 MySQLWorkbench 能否連線得到！ (截圖 15)
 
- 
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/DBA_Review_2021/main/15.png)
 
 * 至系統偏好設定左下方，能見到 MySQL Client Server，可以啟動 (截圖4、5)
 
